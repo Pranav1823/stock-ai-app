@@ -1,0 +1,3 @@
+streamlit
+deepseek-ai
+python-dotenv
